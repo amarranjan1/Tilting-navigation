@@ -1,2 +1,2 @@
 # Tilting-navigation
-1st day project of FunctionUp Bootcamp
+1st day 1st project of FunctionUp Bootcamp
